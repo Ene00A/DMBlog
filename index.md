@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# How Marlboro Changed Advertising Forever 
 
-You can use the [editor on GitHub](https://github.com/Ene00A/DMBlog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## THE WILD WEST OF ADVERTISING
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There's no place where advertising is more fierce than in the cigarette industry. Brand loyalty is considerably high making it important to a cigarette company that they’re the first cigarette that you smoke.
+It's also important to distract the client from the obvious fact that their product will eventually kill you. Necessity has made these companies masters at advertising. And until the year 1970, before cigarette advertisements were banned, nobody was better at this advertising than Marlboro.
 
-### Markdown
+## "WHAT CIGARETTE DO YOU SMOKE, DOCTOR?"
+In the early 1950s, research came out that smoking caused cancer. Many tobacco companies started to panic and changed tactics. It was at this point where Marlboro decided to make history.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### So, what exactly did Marlboro do? And why was it so effective?
 
-```markdown
-Syntax highlighted code block
+## "THIS IS A MAN WHO SMOKES MARLBORO CIGARETTES"
 
-# Header 1
-## Header 2
-### Header 3
+Simply put, Marlboro has bent the traditional marketing tactics. Instead of selling a product, as usual, they decided to sell a lifestyle.
 
-- Bulleted
-- List
+Nowadays, we may be familiar with lifestyle advertising, people in the 1950s weren't. Almost all ads were filled with dry research and boring data about the product. Doctors say, experts suggest, our product is backed up with long years of research, and the list goes on...
+ In a market full of dull advertising Marlboro came up with the perfect idea. The company started testing out lifestyle advertising for the first time.
+ They created the Marlboro man. A man who embodied freedom, adventure, and manliness. The company associated smoking Marlboro with being masculine. 
+ The advertising campaign was deemed to be “the most brilliant advertisement campaign of all time.” 
+ The use of the Marlboro Man campaign had very significant effects on sales. In 1955, when the Marlboro Man campaign started, sales rose from $5 billion to a stunning $20 billion **within two years.** Marlboro easily overcame growing health concerns through the Marlboro Man campaign, highlighting the success of lifestyle advertising as well as Leo Burnett‘s strong ability to use mass marketing to influence the public.
 
-1. Numbered
-2. List
+## “Would you recommend a Marlboro to your friend? I already have.”
 
+ In short, Marlboro’s 45-year marketing campaign was a huge success. For one, they revolutionized the entire advertising industry and took over the cigarettes industry by advertising for emotions instead of a product.
+``
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ene00A/DMBlog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+``
