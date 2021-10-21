@@ -1,6 +1,7 @@
 
 ![Image](/docs/assets/banner.png)
- 
+# How Marlboro Changed Advertising Forever
+
 ## THE WILD WEST OF ADVERTISING
 
 There's no place where advertising is more fierce than in the cigarette industry. Brand loyalty is considerably high making it important to a cigarette company that they’re the first cigarette that you smoke.
