@@ -1,4 +1,4 @@
-#How Marlboro Changed Advertising Forever
+# How Marlboro Changed Advertising Forever
 
 ![Image](/docs/assets/banner.png)
  
