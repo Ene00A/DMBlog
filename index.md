@@ -1,4 +1,4 @@
-<h1>How Marlboro Changed Advertising Forever<h1>
+#How Marlboro Changed Advertising Forever
 
 ![Image](/docs/assets/banner.png)
  
