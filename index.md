@@ -1,4 +1,4 @@
-<h1>"How Marlboro Changed Advertising Forever"<h1>
+<h1>How Marlboro Changed Advertising Forever<h1>
 
 ![Image](/docs/assets/banner.png)
 ## THE WILD WEST OF ADVERTISING
