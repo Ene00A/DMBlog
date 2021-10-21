@@ -10,6 +10,7 @@ In the early 1950s, research came out that smoking caused cancer. Many tobacco c
 
 ### So, what exactly did Marlboro do? And why was it so effective?
 
+
 ## "THIS IS A MAN WHO SMOKES MARLBORO CIGARETTES"
 
 Simply put, Marlboro has bent the traditional marketing tactics. Instead of selling a product, as usual, they decided to sell a lifestyle.
@@ -23,12 +24,4 @@ Nowadays, we may be familiar with lifestyle advertising, people in the 1950s wer
 ## “Would you recommend a Marlboro to your friend? I already have.”
 
  In short, Marlboro’s 45-year marketing campaign was a huge success. For one, they revolutionized the entire advertising industry and took over the cigarettes industry by advertising for emotions instead of a product.
-``
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-``
