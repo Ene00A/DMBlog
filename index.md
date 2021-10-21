@@ -24,7 +24,7 @@ Nowadays, we may be familiar with lifestyle advertising, people in the 1950s wer
  The advertising campaign was deemed to be “the most brilliant advertisement campaign of all time.” 
  The use of the Marlboro Man campaign had very significant effects on sales. In 1955, when the Marlboro Man campaign started, sales rose from $5 billion to a stunning $20 billion **within two years.** Marlboro easily overcame growing health concerns through the Marlboro Man campaign, highlighting the success of lifestyle advertising as well as Leo Burnett‘s strong ability to use mass marketing to influence the public.
 
-<iframe width="800" height="480" src="https://www.youtube.com/embed/wibHcZ4FNbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align: center;"><iframe width="800" height="480" src="https://www.youtube.com/embed/wibHcZ4FNbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen="0"></iframe></div>
 
 ## “Would you recommend a Marlboro to your friend? I already have.”
 
