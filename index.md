@@ -1,6 +1,5 @@
-##
 
-<h1>How Marlboro Changed Advertising Forever<h1>
+
 
 ![Image](/docs/assets/banner.png)
 
@@ -31,4 +30,4 @@ Nowadays, we may be familiar with lifestyle advertising, people in the 1950s wer
 ## “Would you recommend a Marlboro to your friend? I already have.”
 
  In short, Marlboro’s 45-year marketing campaign was a huge success. For one, they revolutionized the entire advertising industry and took over the cigarettes industry by advertising for emotions instead of a product.
-
+<h1>How Marlboro Changed Advertising Forever<h1>
