@@ -1,6 +1,6 @@
+title: "How Marlboro Changed Advertising Forever"
 
 ![Image](/docs/assets/banner.png)
-title: "How Marlboro Changed Advertising Forever"
 
 
 ## THE WILD WEST OF ADVERTISING
